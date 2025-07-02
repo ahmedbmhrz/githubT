@@ -1,1 +1,2 @@
-hello theregit log --oneline
+hello there
+hello there??
